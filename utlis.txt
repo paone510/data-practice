@@ -1,1 +1,1 @@
-utility funcations for version 3
+utility funcations for version 6
